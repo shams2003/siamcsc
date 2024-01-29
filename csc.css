@@ -1,0 +1,42 @@
+.csc {
+    width: 100%;
+    padding-top: 20px;
+    text-align: center;
+    
+    
+    
+   
+    
+}
+
+
+.pic1{
+    padding-left: 100px;
+   
+}
+
+.school{
+    width: 200px;
+    
+}
+
+.pic2{
+    padding-top: 20px;
+    gap: 50px;
+    padding-left: 800px;
+    padding-top: 100px;
+   
+}
+.main{
+    justify-items: center;
+    width: 100%;
+}
+.siam{
+    color: blue;
+}
+.csc2{
+    justify-items: center;
+}
+.body{
+    color: aqua;
+}
